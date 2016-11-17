@@ -1,0 +1,11 @@
+body {
+    background-color: indigo
+}
+
+.header{
+display: flex;
+flex-direction: column;
+background-color:white;
+width: 400px;
+height: 600px;
+}
