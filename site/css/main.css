@@ -1,44 +1,11 @@
-body{
-    margin:0;
-    height:100vh;
-}
-
-.body{
-    height:100%
-}
-
-.container{
-    display:flex;
-    flex-direction:column;
-    width:100%;
-    height:100%;
+body {
+    background-color: indigo
 }
 
 .header{
-    display:flex;
-    width:auto;
-    height:30%;
-    background-color: cadetblue;
-}
-
-.navigation{
-    display:flex;
-    flex-direction: row;
-    height:20%;
-    background-color: pink;
-}
-
-.Facts{
-    width:25%;
-    height:100%;
-}
-
-.Usage{
-    width:25%;
-    height:100%;
-}
-
-.About_us{
-    width:25%;
-    height:100%;
+display: flex;
+flex-direction: column;
+background-color:white;
+width: 400px;
+height: 600px;
 }
