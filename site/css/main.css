@@ -17,7 +17,7 @@ body{
 .header{
     display:flex;
     width:auto;
-    height:30%;
+    height:20%;
     background-color: cadetblue;
 }
 
@@ -30,15 +30,48 @@ body{
 
 .Facts{
     width:25%;
-    height:100%;
+    height:50%;
+    margin-left: 17%;
+    margin-right: 5%;
+    
 }
 
 .Usage{
     width:25%;
-    height:100%;
+    height:50%;
+    margin-left: 5%;
+    margin-right: 5%
 }
 
 .About_us{
     width:25%;
-    height:100%;
+    height:50%;
+    margin-left: 10%;
+    margin-right:17%;
+}
+
+.bildruta{
+    display:flex;
+    flex-direction: row;
+    height: 35%;
+    background-color: cornflowerblue;
+}
+
+.textruta{
+    display:flex;
+    flex-direction: row;
+    height: 20%;
+    background-color: purple;
+}
+
+.copyright{
+    display:flex;
+    flex-direction: row;
+    height: 5%;
+    background-color:gray;
+}
+
+.menu-img{
+    margin-left:20px;
+    margin-right: 10px;
 }
