@@ -18,7 +18,7 @@ body{
     display:flex;
     width:auto;
     height:20%;
-    background-color: cadetblue;
+    background-color: gray;
     justify-content:center;
 
 }
@@ -27,7 +27,7 @@ nav {
     display:flex;
     flex-direction: row;
     height:20%;
-    background-color: pink;
+    background-color:white;
     justify-content: space-around;
 }
 
@@ -35,7 +35,7 @@ nav {
     display:flex;
     flex-direction: row;
     height: 35%;
-    background-color: cornflowerblue;
+    background-color: white;
     justify-content: space-around;
 }
 
@@ -43,7 +43,7 @@ nav {
     display:flex;
     flex-direction: row;
     height: 20%;
-    background-color: purple;
+    background-color:white;
 }
 
 .copyright{
@@ -53,5 +53,21 @@ nav {
     background-color:gray;
     justify-content: space-around;
 
+}
+
+.bildruta2{
+    display:flex;
+    flex-direction: row;
+    height: 55%;
+    background-color: white;
+    justify-content: center;
+    
+}
+
+.bildruta3{
+    display:flex;
+    flex-direction: row;
+    height: 55%;
+    background-color: white;
 }
 
